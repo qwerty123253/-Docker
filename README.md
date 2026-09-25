@@ -89,7 +89,7 @@ Index.html:
     </style>
 </head>
 <body>
-    <img class="image" src="https://i.ibb.co/LzhDTt86/image-part.png" 
+    <img class="image" src="https://i.ibb.co/L(z)hDTt86/image-pa(r)t.png" 
          alt="лого" 
          style="width: 150px; height: 150px;">
     
